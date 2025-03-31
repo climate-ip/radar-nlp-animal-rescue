@@ -23,4 +23,4 @@ This project was developed as part of a personal pivot into machine learning for
 ---
 
 📍 **Status**: In progress  
-🔗 [More projects on my GitHub](https://github.com/your-username)
+🔗 [More projects on my GitHub](https://github.com/climate-ip)
