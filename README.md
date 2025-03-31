@@ -18,7 +18,7 @@
 - Explore real-time ingestion (e.g., Twitter API or mocked data stream)
 
 ## 💡 Inspiration
-RADAR is rooted in a personal, long-standing concern for animal welfare. I've always cared deeply about nonhuman lives and the urgent situations so many animals face due to neglect, abandonment, or environmental hazards. This is not an abstract concern—animal abuse and neglect remain major problems in many parts of the world, including South Korea, where I’m from. While much of my work is driven by environmental resilience and justice, this project comes from a more personal place: a desire to use data and technology to help protect animals in real-time, however small the impact might be.
+RADAR is rooted in a personal, long-standing concern for animal welfare. I've always cared deeply about the rights of nonhuman lives and the urgent situations so many animals face due to abuse, abandonment, or environmental hazards. This is not an abstract concern—animal abuse and neglect remain major problems in many parts of the world, including South Korea, where I’m from. While much of my work is driven by environmental resilience and justice, this project comes from a more personal place: a desire to use data and technology to help protect animals in real-time.
 
 ---
 
