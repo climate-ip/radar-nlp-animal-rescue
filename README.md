@@ -1,4 +1,4 @@
-# 🛰️ RADAR: Real-Time Animal Displacement Alert & Response
+# 🐾 RADAR: Real-Time Animal Displacement Alert & Response
 
 **RADAR** is a natural language processing prototype designed to detect **urgent animal abuse and rescue signals** in digital content. Initially created to support animal protection efforts in South Korea, RADAR helps identify and surface online reports of cruelty, neglect, or emergency — transforming language into a tool for accountability and intervention.
 
