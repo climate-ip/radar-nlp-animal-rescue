@@ -14,7 +14,7 @@ In South Korea, **animal abuse is not just online — it’s real, visible, and 
 
 While the system began with this focused goal, it has since evolved into a broader technical direction: **soft sensing for ecological distress**, using unstructured social signals to detect changes in environmental and animal wellbeing.
 
----
+
 
 ## 🔍 Current Focus
 
@@ -22,7 +22,7 @@ While the system began with this focused goal, it has since evolved into a broad
 - Classify urgency and relevance to support rapid intervention
 - Use transparent, low-cost ML models that are easy to reproduce and audit
 
----
+
 
 ## 🛠️ What’s Working Now
 
@@ -30,7 +30,7 @@ While the system began with this focused goal, it has since evolved into a broad
 - Mock dataset of English-language animal rescue content
 - Jupyter notebook for training, evaluation, and baseline benchmarking
 
----
+
 
 ## 🔭 Where It's Going
 
@@ -45,7 +45,7 @@ Traditional tools like satellites and IoT sensors:
 
 RADAR listens to **what people say when something feels wrong** — especially in communities without formal monitoring systems.
 
----
+
 
 ## 🌍 Future Use Cases
 
@@ -54,7 +54,7 @@ RADAR listens to **what people say when something feels wrong** — especially i
 - Crowd-sourced, language-based environmental risk mapping
 - Real-time triage tools for animal rescue and environmental NGOs
 
----
+
 
 ## 💡 Origin to Impact
 
