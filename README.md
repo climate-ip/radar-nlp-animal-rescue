@@ -1,27 +1,64 @@
-# 🐾 RADAR: Real-Time Animal Danger Alert Recognition
+# 🛰️ RADAR: Real-Time Animal Displacement Alert & Response
 
-**RADAR** is a natural language processing project designed to detect urgent animal rescue signals from social media content. It uses machine learning to classify user-generated posts (e.g., tweets, captions) as potentially actionable alerts to aid animal protection and emergency response teams.
+**RADAR** is a natural language processing prototype designed to detect **urgent animal abuse and rescue signals** in digital content. Initially created to support animal protection efforts in South Korea, RADAR helps identify and surface online reports of cruelty, neglect, or emergency — transforming language into a tool for accountability and intervention.
 
-## 🔍 Project Goals
-- Build a binary text classification model to detect rescue-related content
-- Explore urgency/sentiment tagging to help prioritize intervention
-- Use minimal, accessible infrastructure for rapid deployment or prototyping
+---
 
-## 🛠️ Current Features
-- Baseline text classification pipeline (TF-IDF + logistic regression)
-- Jupyter notebook for model training & evaluation
-- Sample dataset (to be refined)
+## 💢 Why It Began
 
-## 🧠 Next Steps
-- Fine-tune using transformer-based models (e.g., DistilBERT)
-- Add sentiment/urgency detection module
-- Explore real-time ingestion (e.g., Twitter API or mocked data stream)
+RADAR was born from a deeply personal and civic concern:
 
-## 💡 Inspiration
-RADAR is rooted in a personal, long-standing concern for animal welfare. I've always cared deeply about the rights of nonhuman lives and the urgent situations so many animals face due to abuse, abandonment, or environmental hazards. This is not an abstract concern—animal abuse and neglect remain major problems in many parts of the world, including South Korea, where I’m from. While much of my work is driven by environmental resilience and justice, this project comes from a more personal place: a desire to use data and technology to help protect animals in real-time. 
+In South Korea, **animal abuse is not just online — it’s real, visible, and often horrifyingly public**. In tightly packed apartment buildings and neighborhoods, people frequently witness abuse firsthand: dogs being kicked, burned, tied, or starved — often by neighbors or family members. These acts aren’t just rumors; **they are recorded**, **photographed**, and **posted online** by bystanders trying to alert rescue groups and demand justice.
 
-This prototype uses mock English-language data, but future iterations will target Korean-language social media posts using region-specific models and Instagram’s Graph API.
+> RADAR started as a tool to support this decentralized vigilance — to **help identify posts reporting animal abuse**, classify their urgency, and surface them quickly for action.
 
+While the system began with this focused goal, it has since evolved into a broader technical direction: **soft sensing for ecological distress**, using unstructured social signals to detect changes in environmental and animal wellbeing.
+
+---
+
+## 🔍 Current Focus
+
+- Detect posts related to abuse, neglect, or urgent animal welfare concerns
+- Classify urgency and relevance to support rapid intervention
+- Use transparent, low-cost ML models that are easy to reproduce and audit
+
+---
+
+## 🛠️ What’s Working Now
+
+- Binary text classifier (TF-IDF + logistic regression)
+- Mock dataset of English-language animal rescue content
+- Jupyter notebook for training, evaluation, and baseline benchmarking
+
+---
+
+## 🔭 Where It's Going
+
+As RADAR grows, its ambition is expanding beyond abuse detection:
+
+> RADAR is becoming a prototype for **social signal–based environmental sensing** — a system that listens to informal, community-generated language data to detect **wildlife displacement**, **urban ecological distress**, and **invisible climate impacts** that physical sensors miss.
+
+Traditional tools like satellites and IoT sensors:
+- Can’t detect localized animal suffering or displacement
+- Often ignore data in non-English languages or low-infrared areas
+- Miss emotional, human-centered signals embedded in language
+
+RADAR listens to **what people say when something feels wrong** — especially in communities without formal monitoring systems.
+
+---
+
+## 🌍 Future Use Cases
+
+- Urban wildlife conflict detection (e.g., animals migrating into cities)
+- Ecological stress signals after natural disasters (floods, fires, heatwaves)
+- Crowd-sourced, language-based environmental risk mapping
+- Real-time triage tools for animal rescue and environmental NGOs
+
+---
+
+## 💡 Origin to Impact
+
+This project began in direct response to **real-world cruelty** — witnessed, recorded, and shared by ordinary people trying to protect animals in their communities. But its future belongs to a larger system of environmental sensing — one where **language itself becomes a sensor**, and where everyday digital expressions can trigger faster, fairer, and more human-centered responses to crisis.
 
 ---
 
